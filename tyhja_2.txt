@@ -1,1 +1,2 @@
 Lisäsin yhden rivin tekstiä GitHubissa.
+Lisään toisen rivin paikallisesti.
